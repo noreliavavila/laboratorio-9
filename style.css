@@ -1,28 +1,22 @@
- /* estilo para emcabezado*/
-p{
-    color: red;
-    background-color: ;
-    text-align: center;
-    padding: 20px;
-
- .container{
-    width: 90%;
-    margin: 20px;
-    padding: 15px;
-    background-color: beige;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(rgba(0, 0, 0, 0.3)
-    
-   .container p{ 
-      font-size: 16px;
-      color: chocolate;
-      line-height: 1.6;
-
-
- }
-
+/* Estilo para encabezado */
+p {
+   color: red;
+   background-color: #fff; /* Especifica un color de fondo */
+   text-align: center;
+   padding: 20px;
 }
 
-header {
+.container {
+   width: 90%;
+   margin: 20px;
+   padding: 15px;
+   background-color: beige;
+   border-radius: 8px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Corrección en la sintaxis de rgba */
+}
 
+.container p {
+   font-size: 16px;
+   color: chocolate;
+   line-height: 1.6;
 }
